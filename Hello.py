@@ -1,4 +1,4 @@
-import discord.py
+import discord
 import os
 import config
 
